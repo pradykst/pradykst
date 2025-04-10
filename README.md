@@ -1,59 +1,79 @@
-<h1 align="center">Hey, I’m Pradyumna 👋</h1>
+<h1 align="center">Hey there, I'm Pradyumna 👾</h1>
 
 <p align="center">
-  🚀 Engineering student @ NIT Trichy | 🧠 Exploring Web3, AR/VR & Full Stack Dev<br>
-  💻 Building things that blend tech, art, and imagination<br>
-  🌐 <a href="https://github.com/pradykst">GitHub</a> • <a href="https://www.linkedin.com/in/pradyumna-kaushal-33a805218/">LinkedIn</a> • 📨 kaushal.pradyumna@gmail.com
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Builder+%7C+Blockchain+Engineer;Immersive+AR%2FVR+Worlds+%7C+3D+Artist;Crypto-Native+Creator+%7C+Product+Thinker" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/pradykst"><img src="https://img.shields.io/github/followers/pradykst?label=Follow&style=social"></a>
+  <a href="https://www.linkedin.com/in/pradyumna-kaushal-33a805218/"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?logo=linkedin"></a>
+  <a href="mailto:kaushal.pradyumna@gmail.com"><img src="https://img.shields.io/badge/Email-Me-informational?logo=gmail"></a>
 </p>
 
 ---
 
-### 🌟 A Little About Me
+### 👨‍🚀 Who Am I?
 
-I'm a curious engineer who enjoys blurring the lines between *what is* and *what could be*.
+I’m a **maker**. I build apps, games, tokens, and tools that live on the bleeding edge of technology.
 
-Whether it’s creating decentralized apps that redefine payments, crafting VR game worlds with real economies, or hacking together tools that solve everyday problems — I love building stuff that feels *a bit ahead of its time*. I’m currently deep-diving into blockchain, immersive tech, and full-stack systems with a strong product mindset.
+Currently diving into:
+- 🧱 Web3 dApps & Tokenomics
+- 🧠 AR/VR Experiences with real economies
+- 🛠️ Full-stack systems that actually scale
 
-By day, I'm navigating engineering lectures; by night, I'm usually shipping a new feature or sketching out a dApp idea.
-
----
-
-### 🛠️ Things I'm Playing With
-
-- **Tech playground:** Solidity, Nuxt, React, Supabase, Prisma, Docker, Vue, Thirdweb, Unity, Unreal Engine
-- **Where I live:** Somewhere between `console.log("frontend")` and `contract VaultX is ERC20`
-- **Design meets Dev:** 3D modeling with Blender, building immersive AR/VR worlds, deploying full-stack apps that people actually use
+I blend code + design + product thinking to bring ideas to life — sometimes even with a touch of **cyberpunk aesthetic** 😎
 
 ---
 
-### 🧪 Recent Experiments
+### 🧪 What I'm Building
 
-🪙 **VaultX** — A DeFi super-app bringing crypto payments to everyday life. Think QR payments, NFT lending, marketplace, block explorer — all in one place.
+🪙 **[VaultX](https://github.com/pradykst)**  
+> The “everything app” for crypto — NFC/QR payments, NFT lending, block explorer, and marketplace in one dApp.  
+`Nuxt + React + Solidity + Supabase + Prisma`
 
-🎮 **P3RKNexus** — A decentralized gaming hub that runs everything from browser puzzles to fully immersive VR games. Powered by ERC20 tokens, real utility, and a whole lot of Phaser + Unity magic.
+🎮 **P3RKNexus**  
+> Web3 gaming platform with playable 2D/3D/VR games + a universal token that works across games (and even VaultX!).  
+`Unity VR + UE5 + PhaserJS + Thirdweb`
 
-👕 **UNITEE** — A campus merch store turned full-stack PWA. It started as a side project and turned into a live platform with real revenue and users.
-
----
-
-### 🧭 Currently...
-
-- Researching blockchain systems @ Spider R&D, NIT Trichy
-- Working on AR/VR design @ Graphique, the design club here
-- Collaborating with startups to build scalable Web3 products
-- Always thinking about the next idea I want to prototype
+👕 **UNITEE**  
+> Campus merch store → full-stack e-commerce PWA with real orders, customization, and admin inventory.  
+`Nuxt + Supabase + Prisma + Django + Docker`
 
 ---
 
-### 🔗 Connect with Me
+### 💻 Tech Stack
 
-If you're into DeFi, immersive design, or building tech that *feels like the future* — let’s connect!
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/pradyumna-kaushal-33a805218/)
-- 🐙 [GitHub](https://github.com/pradykst)
-- 🐦 [Twitter / X](https://x.com/PradyumnaKaush9)
-- 📫 kaushal.pradyumna@gmail.com
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,js,ts,vue,nuxt,react,python,docker,postgres,blender,unity,threejs,figma,github" />
+</p>
 
 ---
 
-<p align="center"><i>“Build like the world’s watching. Ship like no one is.”</i></p>
+### 📊 GitHub Vibes
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pradykst&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradykst&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Let’s Link Up
+
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [@Pradyumna Kaushal](https://www.linkedin.com/in/pradyumna-kaushal-33a805218/) |
+| 🧠 Twitter / X | [@PradyumnaKaush9](https://x.com/PradyumnaKaush9) |
+| 📬 Email | [kaushal.pradyumna@gmail.com](mailto:kaushal.pradyumna@gmail.com) |
+| 🧪 GitHub | [github.com/pradykst](https://github.com/pradykst) |
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pradykst&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
+<p align="center">
+  <i>“Build cool stuff. Break boundaries. Repeat.”</i>
+</p>
