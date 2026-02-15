@@ -62,7 +62,7 @@ Right now my obsession is **verifiable digital twins**: telemetry → attestatio
 **🛡️ 402Guard (Avalanche x402)**
 - TypeScript SDK + on-chain subscriptions to make HTTP 402 programmable (quote → pay → retry)
 
-**🎓 [Medici.ac](https://www.medici.ac/) (Solana) **
+### 🎓 [Medici.ac](https://www.medici.ac/) (Solana)
 
 - Escrow scholarship and student funding rails (Anchor + TypeScript SDKs)  
 - Awarded a **$10,000 Solana Almighty Grant** to improve and scale Medici.ac
