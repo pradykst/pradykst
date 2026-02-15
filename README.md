@@ -1,7 +1,9 @@
-<h1 align="center">Hey, I'm Pradyumna 👾</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Pradyumna%20Kaushal&fontAlign=50&fontAlignY=35&desc=Applied%20Cryptography%20%7C%20Verifiable%20Computation%20%7C%20Digital%20Twins&descAlign=50&descAlignY=60&animation=twinkling&color=gradient" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=720&lines=Full+Stack+Dev+%7C+Blockchain+Engineer;VR+%2B+Game+Dev+%7C+Simulation+Nerd;Digital+Twins+for+Cars+%2C+Cities+%2C+Commerce;Always+shipping+something+experimental" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=820&lines=ZK%20Systems%20%7C%20Protocol%20Security%20%7C%20Verifiable%20Compute;Digital%20Twins%20%7C%20Telemetry%20Pipelines%20%7C%20Privacy-First%20Data;DeFi%20Simulation%20Worlds%20%7C%20Agents%20That%20Actually%20Execute;I%20ship%20research%20into%20products%20(and%20repeat)" />
 </p>
 
 <p align="center">
@@ -9,172 +11,116 @@
     <img src="https://img.shields.io/github/followers/pradykst?label=Follow&style=social" />
   </a>
   <a href="https://www.pradyumnakaushal.in">
-    <img src="https://img.shields.io/badge/Portfolio-pradyumnakaushal.in-1E90FF?logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-pradyumnakaushal.in-00BFFF?logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.paracausal.tech/">
+    <img src="https://img.shields.io/badge/Org-Paracausal%20Labs-111111?logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/pradyumna-kaushal-33a805218/">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/PradyumnaKaush9">
-    <img src="https://img.shields.io/badge/Follow-@PradyumnaKaush9-black?logo=x" />
-  </a>
-  <a href="https://medium.com/@kaushal.pradyumna">
-    <img src="https://img.shields.io/badge/Read-Medium-black?logo=medium" />
+    <img src="https://img.shields.io/badge/X-@PradyumnaKaush9-000000?logo=x&logoColor=white" />
   </a>
   <a href="mailto:kaushal.pradyumna@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-informational?logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-kaushal.pradyumna%40gmail.com-EA4335?logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 What I Actually Do All Day
+## 👾 What I build
 
-I build systems that:
+I build **evidence-first systems** where:
+- value moves on-chain
+- data stays private, but remains verifiable
+- simulations become real UX for protocols
 
-- move **real value** on chain  
-- simulate **real worlds** in engines  
-- and glue both together with boring but solid full stack
-
-Some keywords that follow me around:
-
-- Blockchain, ZK, wallets, infra  
-- VR, game dev, digital twins  
-- TypeScript backends, Postgres, analytics  
-- Product thinking and shipping first versions fast
-
-Right now I am obsessed with **smart vehicles, telemetry, and verifiable digital twins**.
+Right now my obsession is **verifiable digital twins**: telemetry → attestations → proofs → on-chain commitments.
 
 ---
 
-### 🚗 Vehicles, Twins, and ZK
+## ⚡ Now
 
-🔐 **[VehiclePassport](https://arxiv.org/abs/2509.06133)**  
-Digital passport for vehicles with ZK proofs, telemetry ingestion, and on chain anchoring.  
-I treat a car as a live data structure:
-
-- Time series telemetry in a separate store  
-- Periodic sync into a passport schema  
-- ZK proofs like `batteryHealth > X` or `mileage < Y`  
-- Anchor only hashes so the data stays private but verifiable  
-
-Stack: `Solidity + Circom + SnarkJS + Postgres + TimescaleDB + zkEVM`
-
-🧪 **Simulation and Digital Twin Experiments**  
-
-Small experiments that do not have their own repos yet:
-
-- Vehicle health sandbox with fake IoT feeds for **stress testing ZK pipelines**  
-- Shop floor style flows where each step writes **append only logs** and produces proofs  
-- Planning out **city or campus level digital twin** where events become anchored claims
+- Visiting Student at **KAUST CyberSaR Lab** (applied ZK, protocol security, threat modeling)
+- Building at **Paracausal Labs** (protocol primitives → products)
+- Researching **VehiclePassport** and Digital Product Passport systems for vehicles and circular economy
 
 ---
 
-### 🎮 Games, VR and Interactive Worlds
+## 🏆 Recent wins and builds
 
-I like building worlds where **economies, physics, and code** all collide.
+**🥇 Agentropolis (ETHGlobal HackMoney 2026)**
+- Winner: **Yellow - Integrate Yellow SDK (1st place)** + **ENS prize**
+- A cyberpunk DeFi city-builder where AI agents debate trades, then execute with Uniswap v4 hooks
+- Live demo + source: https://ethglobal.com/showcase/agentropolis-qhtbb
 
-🕹️ **P3RKNexus**  
-Web3 gaming stack with:
+**🔐 VehiclePassport (arXiv)**
+- A privacy-preserving digital passport for smart vehicles (ZK proofs, selective disclosure, on-chain anchoring)
+- Paper: https://arxiv.org/abs/2509.06133
 
-- 2D browser games in PhaserJS  
-- VR scenes in Unity  
-- Shared token that works across games and plugs into other dApps  
+**🛡️ 402Guard (Avalanche x402)**
+- TypeScript SDK + on-chain subscriptions to make HTTP 402 programmable (quote → pay → retry)
 
-Tech: `Unity VR + UE + PhaserJS + Thirdweb + wallets`
-
-🧱 **VaultX in Worlds**  
-Experiments that bring VaultX style crypto flows into interactive scenes:
-
-- NFC and QR style payments mapped to **3D interactions**  
-- In game inventory and on chain inventory kept in sync  
-- Simulated kiosks / vending machines that settle on chain
-
-I treat game engines as UX for blockchain, not just for fun visuals.
+**🎓 Medici.ac (Solana)**
+- Escrow scholarship and student funding rails (Anchor + TypeScript SDKs)
 
 ---
 
-### 🧪 Web and Backend Stuff I Ship
+## 🧩 Featured projects
 
-🪙 **VaultX**  
-Full stack crypto rails:
-
-- QR and NFC flows  
-- NFT collateral lending  
-- Simple marketplace and block explorer views  
-- Recurring payments and cashback logic  
-
-Stack: `Nuxt + React + Solidity + Supabase + Prisma + Docker`
-
-🎓 **[Medici.ac](https://medici.ac)**  
-Student funding stack:
-
-- Donation flows  
-- Fees and routing logic  
-- Matching engine for donors and students  
-- Solana based contracts and TypeScript tooling  
-
-Stack: `Solana + Anchor + Next.js + TypeScript + Supabase`
-
-🧵 **ENSure and Event Systems**  
-Event and hackathon logic backed by:
-
-- ENS identities  
-- Attestation style achievements  
-- Programmatic prize routing  
-
-Stack: `Solidity + ENS + Rootstock + Next.js`
+| Project | What it is | Stack |
+|---|---|---|
+| **Agentropolis** | AI council debates strategies, executes trades, city-builder UX for DeFi | Next.js, React Three Fiber, Foundry/Solidity, Uniswap v4, Yellow SDK, ENS |
+| **VehiclePassport** | ZK vehicle passport + telemetry ingestion + private commitments | Solidity, Circom, SnarkJS, Postgres/TimescaleDB |
+| **402Guard** | Spend-capped micropayment + subscription guardrails for APIs | TypeScript SDK, Solidity, Next.js |
+| **Medici.ac** | Solana escrow + donation flows + routing logic | Solana, Anchor, Next.js, TypeScript |
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Stack I reach for
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,ts,js,react,next,vue,nuxt,nodejs,python,go,rust,postgres,redis,docker,linux,git,github,unity,blender,threejs,figma" />
-</p>
-
-I am happiest when I can:
-
-- write a contract  
-- expose it through a clean TypeScript SDK  
-- wire it into a frontend or a game scene  
-- and log everything to a real database
-
----
-
-### 🔍 Currently Playing With
-
-- Agent flows that turn **natural language into safe on chain actions**  
-- More **simulation heavy** dashboards for stablecoins and wallets  
-- Lightweight SDKs that make ZK usage feel like a normal API call  
-- Better **telemetry and digital twin** stories for vehicles and supply chains  
-
----
-
-### 📊 GitHub Vibes
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradykst&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradykst&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=ts,js,next,react,nodejs,python,go,rust,solidity,postgres,redis,docker,linux,git,github,threejs,unity,blender" />
 </p>
 
 ---
 
-### 🌐 Links
+## 📈 GitHub signals
 
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | [@Pradyumna Kaushal](https://www.linkedin.com/in/pradyumna-kaushal-33a805218/) |
-| 🧠 X (Twitter) | [@PradyumnaKaush9](https://x.com/PradyumnaKaush9) |
-| ✍ Medium | [@kaushal.pradyumna](https://medium.com/@kaushal.pradyumna) |
-| 🌍 Portfolio | [pradyumnakaushal.in](https://www.pradyumnakaushal.in) |
-| 🧪 GitHub | [github.com/pradykst](https://github.com/pradykst) |
-| 📬 Email | [kaushal.pradyumna@gmail.com](mailto:kaushal.pradyumna@gmail.com) |
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradykst&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pradykst&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradykst&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradykst&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
+## 🐍 Contribution snake (enable via workflow below)
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pradykst&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://raw.githubusercontent.com/pradykst/pradykst/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🌐 Links
+
+- Portfolio: https://www.pradyumnakaushal.in
+- Org: https://www.paracausal.tech
+- X: https://x.com/PradyumnaKaush9
+- LinkedIn: https://www.linkedin.com/in/pradyumna-kaushal-33a805218/
+- Email: mailto:kaushal.pradyumna@gmail.com
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pradykst&style=flat-square&color=00BFFF" alt="Profile views" />
 </p>
 
 <p align="center">
