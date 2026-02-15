@@ -105,7 +105,7 @@ Right now my obsession is **verifiable digital twins**: telemetry → attestatio
 
 ---
 
-## 🐍 Contribution snake (enable via workflow below)
+## 🐍 Contribution snake 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pradykst/pradykst/output/github-contribution-grid-snake.svg" alt="snake animation" />
